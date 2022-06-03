@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-5-1
+date: 2022-5-7
 inline: true
 ---
 
-Solar and µFabric accepted to SIGCOMM'22
+Solar (a storage-oriented UDP stack for AliCloud's EBS) accepted to SIGCOMM'22

@@ -2,23 +2,21 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.alibabagroup.com/en/global/home'>Alibaba Group</a>. Address. Contacts
+subtitle: 
 
 profile:
   align: right
   image: prof_pic.jpg
-  address: >
-    <p>525 Almanor Ave</p>
-    <p>Ste 400</p>
-    <p>Sunnyvale, CA 94085</p>
-
+  address: 
+    
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a Senior Engineer/Researcher in at Alibaba Group@Sunnyvale. My research focuses on designing and building datacenter-scale network with bare-metal performance, high reliability, high cost-efficiency, and ease of management, by leveraging emerging technical trends in SDN and silicon programmability.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I received my Ph.D. from University of Southern California. My advisor was prof. <a href="http://minlanyu.seas.harvard.edu/">Minlan Yu<a>. I received my M.S. from Tsinghua University and B.S. from UESTC.
+
+Email: miao.rui AT alibaba-inc dot com
