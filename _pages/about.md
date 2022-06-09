@@ -15,7 +15,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-I am a Senior Engineer/Researcher in at Alibaba Group@Sunnyvale. My research focuses on designing and building datacenter-scale network with bare-metal performance, high reliability, high cost-efficiency, and ease of management, by leveraging emerging technical trends in SDN and silicon programmability.
+I am a Senior Engineer/Researcher at Alibaba@Sunnyvale. My research focuses on building predictable and high-performance datacenter networks, by leveraging the programmable data plane.
 
 I received my Ph.D. from University of Southern California. My advisor was prof. <a href="http://minlanyu.seas.harvard.edu/">Minlan Yu<a>. I received my M.S. from Tsinghua University and B.S. from UESTC.
 
