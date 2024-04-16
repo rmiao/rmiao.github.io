@@ -20,5 +20,7 @@ I am a Software Engineer at Meta. I am working on improving performance, reliabi
 I received my Ph.D. from University of Southern California, under the guidance of prof. <a href="http://minlanyu.seas.harvard.edu/">Minlan Yu<a>. I received my M.S. from Tsinghua and B.S. from UESTC.
 
 <a href="https://scholar.google.com/citations?hl=en&user=sm51kQ8AAAAJ/">Google scholar profile
+
 <a href="https://www.linkedin.com/in/r-miao/">Linkedin page
+
 Email: rmiao AT meta dot com
