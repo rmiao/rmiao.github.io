@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-5-7
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Solar (a storage-oriented UDP stack for AliCloud's EBS) accepted to SIGCOMM'22
