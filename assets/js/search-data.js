@@ -391,16 +391,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-solar-a-storage-oriented-udp-stack-for-alicloud-s-ebs-accepted-to-sigcomm-22",
+          title: 'Solar (a storage-oriented UDP stack for AliCloud’s EBS) accepted to SIGCOMM’22',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-µfab-predictable-virtual-fabric-with-programmable-data-plane-accepted-to-sigcomm-22",
+          title: 'µFAB (predictable virtual fabric with programmable data plane) accepted to SIGCOMM’22',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-rdma-over-ethernet-for-distributed-ai-training-at-meta-scale-accepted-to-sigcomm-24",
+          title: 'RDMA over Ethernet for Distributed AI Training at Meta Scale accepted to SIGCOMM’24...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
