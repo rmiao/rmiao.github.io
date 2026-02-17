@@ -15,7 +15,7 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 
-I am a Software Engineer at Meta. I am working on improving performance, reliability, and observability for Generative AI training.
+I am a Software Engineer, Machine Learning at Meta. I am working on GPU training and serving enablement, as well as efficiency optimization through model-hardware co-design. Previously, I worked on enhancing the performance, reliability, and observability of Generative AI training. Before joining Meta, I led innovation and productionization efforts on Alibaba Cloud’s high-performance networking, focusing on congestion control, high-performance transport, and network programmability.
 
 I received my Ph.D. from University of Southern California, under the guidance of prof. <a href="http://minlanyu.seas.harvard.edu/">Minlan Yu<a>. I received my M.S. from Tsinghua and B.S. from UESTC.
 
